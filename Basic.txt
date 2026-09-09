@@ -1,0 +1,5 @@
+train_name = "Rajdhani Express"
+train_number = 12951
+source_station = "Mumbai"
+destination_station = "Delhi"
+ticket_price = 2450.75
