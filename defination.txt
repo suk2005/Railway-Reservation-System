@@ -1,0 +1,7 @@
+list
+ordered, mutable, store both similar and different types of elements, represent in square braces.
+
+list function
+append() - add element at last
+insert() - add element at specific location
+extend() - add multiple element
