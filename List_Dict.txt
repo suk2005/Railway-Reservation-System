@@ -1,0 +1,20 @@
+create disctionary containing names and mark of 5 students
+
+display that disctionary
+
+add new key city and update student mark
+
+remove mark of one subject using pop
+
+Ask the usere to enter a key and 
+check whether that key exists in the dictionary
+
+display all the keys and all the values separately using keys() and values()
+
+write a program to calculate and display the total mark
+
+find and display the student who has scored the highest mark
+
+write a python program to count the frequency of each character in a string using a dictionary
+
+create a dictionaries containing student details and merge them into a single dictionary.
